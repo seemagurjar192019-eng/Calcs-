@@ -1,0 +1,7 @@
+{
+  "name": "Precision Calculator",
+  "description": "A high-performance scientific and multi-disciplinary calculator with instant zero-lag input, symbolic algebra, graphing engine, matrix workbench, finance, and dimensional analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
